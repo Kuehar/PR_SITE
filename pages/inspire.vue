@@ -29,7 +29,7 @@
             <div>将来的なキャリアプランについて</div>
           </v-card-text>
           <v-card-actions>
-            <v-btn to="/aboutme" color="orange" text>Explore</v-btn>
+            <v-btn to="/aboutme" color="blue" text>Explore</v-btn>
           </v-card-actions>
         </v-card>
         <v-card class="mx-auto" max-width="400">
@@ -46,7 +46,7 @@
             <div>なぜCSSでなければならないのか</div>
           </v-card-text>
           <v-card-actions>
-            <v-btn to="/why" color="orange" text>Explore</v-btn>
+            <v-btn to="/why" color="blue" text>Explore</v-btn>
           </v-card-actions>
         </v-card>
         <v-card class="mx-auto" max-width="400">
@@ -62,7 +62,7 @@
             <div>自身の強みを生かしてどのように貢献するか</div>
           </v-card-text>
           <v-card-actions>
-            <v-btn to="/contribute" color="orange" text>Explore</v-btn>
+            <v-btn to="/contribute" color="blue" text>Explore</v-btn>
           </v-card-actions>
         </v-card>
         <footer></footer>

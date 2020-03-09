@@ -15,7 +15,11 @@
           </p>
           <p>
             ソースコードは
-            <a href="https://github.com/" target="_blank" title="chat">
+            <a
+              href="https://github.com/Kuehar/PR_SITE/"
+              target="_blank"
+              title="chat"
+            >
               こちら
             </a>
           </p>
