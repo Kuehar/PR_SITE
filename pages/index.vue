@@ -15,14 +15,14 @@
           </p>
           <p>
             ソースコードは
-            <a href="https://chat.vuetifyjs.com/" target="_blank" title="chat">
+            <a href="https://github.com/" target="_blank" title="chat">
               こちら
             </a>
           </p>
           <p>
             バグを見つけたらお手数ですが
             <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
+              href="https://twitter.com/KueharX"
               target="_blank"
               title="contribute"
             >

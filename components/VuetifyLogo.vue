@@ -5,8 +5,8 @@
 <style>
 .VuetifyLogo {
   width: 180px;
-  transform: rotateY(560deg);
-  animation: turn 2s ease-out forwards 1s;
+  transform: rotateY(360deg);
+  animation: turn 3s ease-out forwards 0.5s;
 }
 
 @keyframes turn {

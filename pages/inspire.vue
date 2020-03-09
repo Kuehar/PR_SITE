@@ -9,15 +9,17 @@
         </p>
         <p>という経緯で生まれたのがこのサイトです。</p>
         <p>
-          履歴書や職務経歴書だけでは分からない部分を知るために面接の場があると思うので、
+          履歴書や職務経歴書だけでは分からない部分をいつでも確認できるように、
         </p>
-        <p>このサイトではその部分に重点を置いています。</p>
+        <p>
+          このサイトでは私自身や志望動機、どのように貢献するかといった点に焦点を当てています。
+        </p>
         <hr class="my-3" />
         <v-card class="mx-auto" max-width="400">
           <v-img
             class="white--textalign-end"
             height="200px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="/information.jpg"
           >
             <v-card-title>About me</v-card-title>
           </v-img>
@@ -44,7 +46,7 @@
             <div>なぜCSSでなければならないのか</div>
           </v-card-text>
           <v-card-actions>
-            <v-btn color="orange" text>Explore</v-btn>
+            <v-btn to="/why" color="orange" text>Explore</v-btn>
           </v-card-actions>
         </v-card>
         <v-card class="mx-auto" max-width="400">
@@ -60,7 +62,7 @@
             <div>自身の強みを生かしてどのように貢献するか</div>
           </v-card-text>
           <v-card-actions>
-            <v-btn color="orange" text>Explore</v-btn>
+            <v-btn to="/contribute" color="orange" text>Explore</v-btn>
           </v-card-actions>
         </v-card>
         <footer></footer>
