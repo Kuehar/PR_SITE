@@ -2,7 +2,7 @@
 
 > My top-notch Nuxt.js project
 勉強用にNuxt.jsとAzureを使って自身のポートフォリオサイトを作ってみました
-https://prsite.z5.web.core.windows.net/inspire
+https://prsite.z5.web.core.windows.net
 こちらが実際のサイトで、徐々に更新していこうかと思います。
 
 
